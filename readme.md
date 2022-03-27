@@ -168,7 +168,7 @@ function distribute(address token) external
 | veNFT-dist | [0xACCF9d3b4084f85540D24e0aad0bE2c5F13BCDE2](https://testnet.ftmscan.com/address/0xACCF9d3b4084f85540D24e0aad0bE2c5F13BCDE2#code) |
 | BaseV1Minter | [0x17C2074bb32d2B532ab479b6815ca1B50ff00024](https://testnet.ftmscan.com/address/0x17C2074bb32d2B532ab479b6815ca1B50ff00024#code) |
 
-### Mainnet
+### Mainnet RED CHAIN AVALANCHE
 
 | Name | Address |
 | :--- | :--- |
