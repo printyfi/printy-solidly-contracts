@@ -147,31 +147,6 @@ function distribute(address token) external
 
 | Name | Address | Qty |
 | :--- | :--- | :--- |
-| Multichain | 0x5bDacBaE440A2F30af96147DE964CC97FE283305 | 800000 |
-| 0xDAO | 0xa96D2F0978E317e7a97aDFf7b5A76F4600916021 | 2376588 |
-| SpookySwap | 0x95478C4F7D22D1048F46100001c2C69D2BA57380 | 1331994 |
-| Yearn Finance | 0xC0E2830724C946a6748dDFE09753613cd38f6767 | 1118072 |
-| veDAO | 0x3293cB515Dbc8E0A8Ab83f1E5F5f3CC2F6bbc7ba | 1070472 |
-| Curve | 0xffFfBBB50c131E664Ef375421094995C59808c97 | 1023840 |
-| Tomb Finance | 0x02517411F32ac2481753aD3045cA19D58e448A01 | 864361 |
-| Geist Finance | 0xf332789fae0d1d6f058bfb040b3c060d76d06574 | 812928 |
-| Beefy Finance | 0xdFf234670038dEfB2115Cf103F86dA5fB7CfD2D2 | 795726 |
-| RenVM | 0x0f2A144d711E7390d72BD474653170B201D504C8 | 763362 |
-| Synapse | 0x224002428cF0BA45590e0022DF4b06653058F22F | 727329 |
-| Radial | 0x26D70e4871EF565ef8C428e8782F1890B9255367 | 688233 |
-| Iron Bank | 0xA5fC0BbfcD05827ed582869b7254b6f141BA84Eb | 681101 |
-| SpiritSwap | 0x4D5362dd18Ea4Ba880c829B0152B7Ba371741E59 | 677507 |
-| Scream | 0x1e26D95599797f1cD24577ea91D99a9c97cf9C09 | 676304 |
-| Abracadabra | 0xb4ad8B57Bd6963912c80FCbb6Baea99988543c1c | 642992 |
-| SushiSwap | 0xF9E7d4c6d36ca311566f46c81E572102A2DC9F52 | 609195 |
-| Frax | 0xE838c61635dd1D41952c68E47159329443283d90 | 598412 |
-| Reaper Farm | 0x111731A388743a75CF60CCA7b140C58e41D83635 | 591573 |
-| Beethoven X | 0x0edfcc1b8d082cd46d13db694b849d7d8151c6d5 | 587431 |
-| Hundred Finance | 0xD0Bb8e4E4Dd5FDCD5D54f78263F5Ec8f33da4C95 | 542785 |
-| Morpheus Swap | 0x9685c79e7572faF11220d0F3a1C1ffF8B74fDc65 | 536754 |
-| Saddle | 0xa70b1d5956DAb595E47a1Be7dE8FaA504851D3c5 | 518240 |
-| Liquid Driver | 0x06917EFCE692CAD37A77a50B9BEEF6f4Cdd36422 | 511920 |
-| Tarot | 0x5b0390bccCa1F040d8993eB6e4ce8DeD93721765 | 452870 |
 
 ### Testnet deployment
 
@@ -197,21 +172,20 @@ function distribute(address token) external
 
 | Name | Address |
 | :--- | :--- |
-| wFTM| [0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83](https://ftmscan.com/address/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83#code) |
-| Solid | [0x888EF71766ca594DED1F0FA3AE64eD2941740A20](https://ftmscan.com/address/0x888EF71766ca594DED1F0FA3AE64eD2941740A20#code) |
-| BaseV1Factory | [0x3fAaB499b519fdC5819e3D7ed0C26111904cbc28](https://ftmscan.com/address/0x3fAaB499b519fdC5819e3D7ed0C26111904cbc28#code) |
-| BaseV1BribeFactory | [0xD0333A1A1AbFD68B362c5aA71B95392745381379](https://ftmscan.com/address/0xD0333A1A1AbFD68B362c5aA71B95392745381379#code) |
-| BaseV1GaugesFactory | [0x25d220723ED3D9C55fDb9CfDddF044b52639ccae](https://ftmscan.com/address/0x25d220723ED3D9C55fDb9CfDddF044b52639ccae#code) |
-| BaseV1Router01 | [0xa38cd27185a464914D3046f0AB9d43356B34829D](https://ftmscan.com/address/0xa38cd27185a464914D3046f0AB9d43356B34829D#code) |
-| BaseV1Voter | [0xdC819F5d05a6859D2faCbB4A44E5aB105762dbaE](https://ftmscan.com/address/0xdC819F5d05a6859D2faCbB4A44E5aB105762dbaE#code) |
-| veNFT | [0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b](https://ftmscan.com/address/0xcBd8fEa77c2452255f59743f55A3Ea9d83b3c72b#code) |
-| veNFT-dist | [0xA5CEfAC8966452a78d6692837b2ba83d19b57d07](https://ftmscan.com/address/0xA5CEfAC8966452a78d6692837b2ba83d19b57d07#code) |
-| BaseV1Minter | [0xC4209c19b183e72A037b2D1Fb11fbe522054A90D](https://ftmscan.com/address/0xC4209c19b183e72A037b2D1Fb11fbe522054A90D#code) |
+| WAVAX| [0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7](https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7#code) |
+| Print | [0x888365Cef16Baf8354Bf1A9A88e548555b7348bF](https://snowtrace.io/address/0x888365Cef16Baf8354Bf1A9A88e548555b7348bF#code) |
+| BaseV1Factory | [0xc62Ca231Cd2b0c530C622269dA02374134511a36](https://snowtrace.io/address/0xc62Ca231Cd2b0c530C622269dA02374134511a36#code) |
+| BaseV1BribeFactory | [0xbE292b3b0fE6D624A6625250e449C4240c799F35](https://snowtrace.io/address/0xbE292b3b0fE6D624A6625250e449C4240c799F35#code) |
+| BaseV1GaugesFactory | [0x3408422f63535EAb2eF5B199edecd0c6189Cc03a](https://snowtrace.io/address/0x3408422f63535EAb2eF5B199edecd0c6189Cc03a#code) |
+| BaseV1Router01 | [0x6A8f98d7e34Fd214B428BFc68c9309Ea3C4Fc7F1](https://snowtrace.io/address/0x6A8f98d7e34Fd214B428BFc68c9309Ea3C4Fc7F1#code) |
+| BaseV1Voter | [0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E](https://avascan.info/blockchain/c/address/0x3197713056b8E7358a31E0EC22A1450a6ad18b7d/contract) |
+| veNFT | [0x3197713056b8E7358a31E0EC22A1450a6ad18b7d](https://snowtrace.io/address/0x3197713056b8E7358a31E0EC22A1450a6ad18b7d#code) |
+| veNFT-dist | [0xFf58CD1a1394A19Efa33F83545081459dfE2dA44](https://snowtrace.io/address/0xFf58CD1a1394A19Efa33F83545081459dfE2dA44#code) |
+| BaseV1Minter | [0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603](https://snowtra
 
 ## Security
 
 - [Immunefi Bug Bounty Program](https://immunefi.com/bounty/solidly/)  
-- [Bug Bounty Program](https://github.com/andrecronje/solidly/blob/master/SECURITY.md)  
 
 * [MythX: voter.sol](https://github.com/andrecronje/solidly/blob/master/audits/17faf962f99a7e7e3f26f8bc.pdf)
 * [MythX: ve.sol](https://github.com/andrecronje/solidly/blob/master/audits/4094394a6bc512d57672533c.pdf)
