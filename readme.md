@@ -165,8 +165,8 @@ function distribute(address token) external
 | veNFT-dist | [0xFf58CD1a1394A19Efa33F83545081459dfE2dA44](https://snowtrace.io/address/0xFf58CD1a1394A19Efa33F83545081459dfE2dA44#code) |
 | BaseV1Minter | [0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603](https://snowtrace.io/address/0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603) |
 
-## Security
-
+## Security (!!!solidly)
+  
 - [Immunefi Bug Bounty Program](https://immunefi.com/bounty/solidly/)  
 
 * [MythX: voter.sol](https://github.com/andrecronje/solidly/blob/master/audits/17faf962f99a7e7e3f26f8bc.pdf)
