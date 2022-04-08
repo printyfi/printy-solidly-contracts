@@ -159,7 +159,7 @@ function distribute(address token) external
 | BaseV1Factory | [0xc62Ca231Cd2b0c530C622269dA02374134511a36](https://snowtrace.io/address/0xc62Ca231Cd2b0c530C622269dA02374134511a36#code) |
 | BaseV1BribeFactory | [0xbE292b3b0fE6D624A6625250e449C4240c799F35](https://snowtrace.io/address/0xbE292b3b0fE6D624A6625250e449C4240c799F35#code) |
 | BaseV1GaugesFactory | [0x3408422f63535EAb2eF5B199edecd0c6189Cc03a](https://snowtrace.io/address/0x3408422f63535EAb2eF5B199edecd0c6189Cc03a#code) |
-| BaseV1Router01 | [0x6A8f98d7e34Fd214B428BFc68c9309Ea3C4Fc7F1](https://snowtrace.io/address/0x6A8f98d7e34Fd214B428BFc68c9309Ea3C4Fc7F1#code) |
+| BaseV1Router01 | [0xDc72882909252E133a4A46eFB135b3B145366eba](https://snowtrace.io/address/0xDc72882909252E133a4A46eFB135b3B145366eba#code) |
 | BaseV1Voter | [0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E](https://snowtrace.io/address/0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E#code) |
 | veNFT | [0x3197713056b8E7358a31E0EC22A1450a6ad18b7d](https://avascan.info/blockchain/c/address/0x3197713056b8E7358a31E0EC22A1450a6ad18b7d/contract) |
 | veNFT-dist | [0xFf58CD1a1394A19Efa33F83545081459dfE2dA44](https://snowtrace.io/address/0xFf58CD1a1394A19Efa33F83545081459dfE2dA44#code) |
