@@ -163,7 +163,9 @@ function distribute(address token) external
 | BaseV1Voter | [0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E](https://snowtrace.io/address/0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E#code) |
 | veNFT | [0x3197713056b8E7358a31E0EC22A1450a6ad18b7d](https://avascan.info/blockchain/c/address/0x3197713056b8E7358a31E0EC22A1450a6ad18b7d/contract) |
 | veNFT-dist | [0xFf58CD1a1394A19Efa33F83545081459dfE2dA44](https://snowtrace.io/address/0xFf58CD1a1394A19Efa33F83545081459dfE2dA44#code) |
-| BaseV1Minter | [0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603](https://snowtrace.io/address/0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603) |
+| BaseV1Minter | [0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603](https://snowtrace.io/address/0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603#code) |
+| PrintyLibrary | [0x1DC44EC22EF22C02cf1Cef1D72Fd915572c153bA](https://snowtrace.io/address/0x1DC44EC22EF22C02cf1Cef1D72Fd915572c153bA#code) |
+
 
 ## Security (!!!solidly)
   
