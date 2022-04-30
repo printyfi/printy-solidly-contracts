@@ -155,15 +155,15 @@ function distribute(address token) external
 | Name | Address |
 | :--- | :--- |
 | WAVAX| [0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7](https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7#code) |
-| Print | [0x888365Cef16Baf8354Bf1A9A88e548555b7348bF](https://snowtrace.io/address/0x888365Cef16Baf8354Bf1A9A88e548555b7348bF#code) |
+| Printy V2 | [0x6902a8ecF99a732e5a73491Afc14e5E135eE4234](https://snowtrace.io/address/0x6902a8ecF99a732e5a73491Afc14e5E135eE4234#code) |
 | BaseV1Factory | [0xc62Ca231Cd2b0c530C622269dA02374134511a36](https://snowtrace.io/address/0xc62Ca231Cd2b0c530C622269dA02374134511a36#code) |
-| BaseV1BribeFactory | [0xbE292b3b0fE6D624A6625250e449C4240c799F35](https://snowtrace.io/address/0xbE292b3b0fE6D624A6625250e449C4240c799F35#code) |
-| BaseV1GaugesFactory | [0x3408422f63535EAb2eF5B199edecd0c6189Cc03a](https://snowtrace.io/address/0x3408422f63535EAb2eF5B199edecd0c6189Cc03a#code) |
+| BaseV1BribeFactory | [0x5C035F691D6C9A23647b84aC3511c47A402670A3](https://snowtrace.io/address/0x5C035F691D6C9A23647b84aC3511c47A402670A3#code) |
+| BaseV2GaugesFactory | [0xd51013D5B7f04bB1fDf3b0439eD41893E2aF4026](https://snowtrace.io/address/0xd51013D5B7f04bB1fDf3b0439eD41893E2aF4026#code) |
 | BaseV1Router01 | [0xDc72882909252E133a4A46eFB135b3B145366eba](https://snowtrace.io/address/0xDc72882909252E133a4A46eFB135b3B145366eba#code) |
-| BaseV1Voter | [0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E](https://snowtrace.io/address/0x47a3931486a73314D367e4dE2B2FfaC83fa4B81E#code) |
-| veNFT | [0x3197713056b8E7358a31E0EC22A1450a6ad18b7d](https://avascan.info/blockchain/c/address/0x3197713056b8E7358a31E0EC22A1450a6ad18b7d/contract) |
-| veNFT-dist | [0xFf58CD1a1394A19Efa33F83545081459dfE2dA44](https://snowtrace.io/address/0xFf58CD1a1394A19Efa33F83545081459dfE2dA44#code) |
-| BaseV1Minter | [0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603](https://snowtrace.io/address/0xB733C89e9026Cf9e3aB07F85DCd3579bd135f603#code) |
+| BaseV1Voter | [0x580770a33B87B209C5a9E1b4F0129f49a8dEab48](https://snowtrace.io/address/0x580770a33B87B209C5a9E1b4F0129f49a8dEab48#code) |
+| vePrintyNFT | [0x91E95D75354eC965B67165Cc8DF8249b7B082D3C](https://avascan.info/blockchain/c/address/0x91E95D75354eC965B67165Cc8DF8249b7B082D3C/contract) |
+| veNFT-dist | [0x80Ce36E262876aB217c676cfdbB1D953BbB92511](https://snowtrace.io/address/0x80Ce36E262876aB217c676cfdbB1D953BbB92511#code) |
+| BaseV1Minter | [0x6146df0D7865e051d97270749a023b4DA03244dD](https://snowtrace.io/address/0x6146df0D7865e051d97270749a023b4DA03244dD#code) |
 | PrintyLibrary | [0x1DC44EC22EF22C02cf1Cef1D72Fd915572c153bA](https://snowtrace.io/address/0x1DC44EC22EF22C02cf1Cef1D72Fd915572c153bA#code) |
 
 
